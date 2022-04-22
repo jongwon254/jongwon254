@@ -6,6 +6,8 @@
   I am passionate about creating software with innovative and creative user experiences<br>through design and technology.
   <br>
   <br>
+ <img src="https://media.giphy.com/media/loUqCMSfXHcsVb3cUZ/giphy.gif" width="27px">
+  <br>
   Let's connect!
   <br>
   <a href="https://www.linkedin.com/in/jongwon254" rel="nofollow noreferrer">
