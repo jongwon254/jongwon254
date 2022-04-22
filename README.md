@@ -6,7 +6,7 @@
   I am passionate about creating software with innovative and creative user experiences<br>through design and technology.
   <br>
   <br>
- <img src="https://media.giphy.com/media/loUqCMSfXHcsVb3cUZ/giphy.gif" width="27px">
+ <img src="https://user-images.githubusercontent.com/36485235/164817016-21ee5871-e6fe-4ca6-ad84-be3a5a4e7845.gif" width="80px">
   <br>
   Let's connect!
   <br>
@@ -19,4 +19,3 @@
     😎Website
   </a> &nbsp; 
 </p>
-
