@@ -3,16 +3,18 @@
 <p align="center">
   Hi👋 I am Jong-Won.
   <br>
-  I am passionate about creating software with innovative and creative user experiences through design and technology.
+  I am passionate about creating software with innovative and creative user experiences<br>through design and technology.
   <br>
   <br>
   Let's connect!
   <br>
   <a href="https://www.linkedin.com/in/jongwon254" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">LinkedIn</a><br>
+    <br>
+  Or visit my website for more info!
+  <br>
+  <a href="https://jongwonlee.dev" rel="nofollow noreferrer">
+    😎Website
   </a> &nbsp; 
-  📬
-  [Visit my Website](https://jongwonlee.dev)
 </p>
-  
 
