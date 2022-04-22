@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/jongwon254" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  📬 ![Visit my Website](https://jongwonlee.dev)
+  📬[Visit my Website](https://jongwonlee.dev)
 </p>
   
 
