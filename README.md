@@ -3,8 +3,8 @@
 <p align="center">
   Hi👋 I am Jong-Won.
   <br>
-  <br>
  <img src="https://user-images.githubusercontent.com/36485235/164817016-21ee5871-e6fe-4ca6-ad84-be3a5a4e7845.gif" width="80px">
+  <br>
   <br>
   Let's connect!
   <br>
