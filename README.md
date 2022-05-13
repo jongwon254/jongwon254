@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/jongwon254" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">LinkedIn</a><br>
     <br>
-  Or visit my website for more info!
+  Or visit my website!
   <br>
   <a href="https://jongwonlee.dev" rel="nofollow noreferrer">
     😎Website
