@@ -14,6 +14,6 @@
   Or visit my website!
   <br>
   <a href="https://jongwonlee.dev" rel="nofollow noreferrer">
-    😎Website
+    🪧Website
   </a> &nbsp; 
 </p>
