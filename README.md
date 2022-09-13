@@ -2,7 +2,6 @@
 
 <p align="center">
   Hi👋 My name is <b>Jong-Won Lee</b> and I am an aspiring <b>full-stack software engineer</b>. <br>
-  I am passionate about automotives and electric mobility.
   <br>
   <br>
   Let's connect!
