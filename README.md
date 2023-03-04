@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/36485235/164783020-d6880791-83fb-4be5-95ee-7f5303e0e2f0.gif)
 
 <p align="center">
-  Hi👋 My name is <b>Jong-Won Lee</b> and I am an aspiring <b>full-stack software engineer</b>. <br>
+  Hi👋 My name is <b>Jong-Won Lee</b> and I am a <b>software engineer</b>. <br>
   <br>
   <br>
   Let's connect!
